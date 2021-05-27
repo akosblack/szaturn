@@ -1,0 +1,57 @@
+.selected{
+    background-color: darkgrey;
+    border-color: dimgrey;
+}
+.selected:hover{
+    background-color: grey;
+    border-color: dimgrey;
+}
+
+.logo{
+	text-indent: -999999px;
+	background: url('logo.png');
+	width: 681px;
+	height:215px;
+}
+
+.menu-button{
+    background-color: green;
+    border-color: green;
+}
+
+.center-page{
+    margin:0 auto;
+    text-align: center;
+}
+
+.center-text{
+    text-align: center;
+}
+ .left-text{
+     text-align: left;
+ }
+
+.right-text{
+    text-align: right;
+}
+
+.dark-cell{
+    background-color: grey !important;
+    border-color: dimgray !important;
+    color: white !important;
+    font-weight: bold !important;
+}
+.bold-text{
+    font-weight: bold !important;
+}
+.page-color{
+    background-color: #FFFBEE;
+}
+.dim-cell{
+    background-color: white !important;
+}
+.center-welcome{
+    margin:0 auto;
+    text-align: justify;
+    width: 70%;
+}
